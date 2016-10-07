@@ -25,8 +25,7 @@ var common = {
       },
       {
         test: /\.jsx?$/,
-        loader: 'babel?stage=1',
-        include: path.resolve(ROOT_PATH, 'app'),
+        loader: 'babel?stage=1'
       }
     ],
   },

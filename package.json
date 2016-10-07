@@ -25,7 +25,6 @@
     "my new": "chnages"
   },
   "dependencies": {
-    "react": "^0.13.3",
-    "my new": "chnages"
+    "react": "^0.13.3"
   }
 }
