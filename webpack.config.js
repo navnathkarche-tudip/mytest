@@ -25,7 +25,7 @@ var common = {
       },
       {
         test: /\.jsx?$/,
-        loader: 'babel?stage=1'
+        loader: 'babel?stage=3'
       }
     ],
   },
